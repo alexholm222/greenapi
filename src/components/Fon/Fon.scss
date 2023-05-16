@@ -1,0 +1,30 @@
+.fon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &__image {
+    background-image: url(../../images/fon-img.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 390px;
+    height: 250px;
+    margin-bottom: 10px;
+  }
+
+  &__title {
+    font-size: 32px;
+    font-weight: 300;
+    margin: 0;
+  }
+
+  &__text {
+    max-width: 560px;
+    margin-top: 16px;
+    font-weight: 300;
+    font-size: 14px;
+    text-align: center;
+    line-height: 140%;
+  }
+}

@@ -1,0 +1,11 @@
+export const ERROR_BLOCKED = 'ваш аккаунт забанен';
+export const ERROR_SLEEP = 'Скорее всего ваш телефон выключен, после включения телефона подождите 5 мин и попробуйте снова';
+export const ERROR_NOT_AUTH = 'Аккаунт не авторизован. Для авторизации аккаунта обратитесь к разделу Перед началом работы в руководстве GreenApi';
+export const ERROR_STARTING = 'Аккаунт в процессе запуска (сервисный режим). Происходит перезагрузка инстанса, подождите 5 мин и попробуйте снова';
+export const ERROR_DATA = 'Введены не верные данные для авторизации';
+export const BAD_INTERNET = 'Проблемы с интернет соединением или не верный формат данных';
+export const ERROR_WATSUP_EXIST = 'Номер не зарегистрирован в WhatsUp';
+export const ERROR_TEL_FORMAT = 'Неверный формат номера телефона, должен быть 11 или 12 цифр';
+export const ERROR_LIMIT_REQUEST = 'Превышен лимит запросов на проверку номера';
+export const ERROR_SEND_MESSAGE = 'Не удалось отправить сообщение';
+export const ENTER_MESSAGE = 'Введите сообщение';
