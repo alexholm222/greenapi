@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/greenapi/static/css/main.483251b2.css",
+    "main.js": "/greenapi/static/js/main.7c23c937.js",
+    "static/js/787.d0a4536c.chunk.js": "/greenapi/static/js/787.d0a4536c.chunk.js",
+    "static/media/SegoeUI.woff": "/greenapi/static/media/SegoeUI.7d57fcab3b3b4890bacc.woff",
+    "static/media/SegoeUI-Bold.woff": "/greenapi/static/media/SegoeUI-Bold.2621e35ae73a5ca8a0c1.woff",
+    "static/media/SegoeUI-Light.woff": "/greenapi/static/media/SegoeUI-Light.637425ddb5e656ddba27.woff",
+    "static/media/fon-img.png": "/greenapi/static/media/fon-img.6d755c6d77afa0dc4b7d.png",
+    "index.html": "/greenapi/index.html",
+    "main.483251b2.css.map": "/greenapi/static/css/main.483251b2.css.map",
+    "main.7c23c937.js.map": "/greenapi/static/js/main.7c23c937.js.map",
+    "787.d0a4536c.chunk.js.map": "/greenapi/static/js/787.d0a4536c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.483251b2.css",
+    "static/js/main.7c23c937.js"
+  ]
+}
